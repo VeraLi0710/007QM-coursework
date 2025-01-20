@@ -1,0 +1,570 @@
+Ward_ID,Ward_Name,Gym,Poverty_Family,GreenSpace,Cluster
+E05000026,Abbey,0.0,0,10.0,4
+E05000027,Alibon,0.0,0,0.0,2
+E05000028,Becontree,0.0,0,10.0,4
+E05000029,Chadwell Heath,0.0,0,10.0,4
+E05000030,Eastbrook,0.0,0,10.0,4
+E05000031,Eastbury,0.0,0,10.0,4
+E05000032,Gascoigne,0.0,0,10.0,4
+E05000033,Goresbrook,0.0,0,10.0,4
+E05000034,Heath,0.0,0,10.0,4
+E05000035,Longbridge,0.0,0,10.0,1
+E05000036,Mayesbrook,0.0,0,10.0,0
+E05000037,Parsloes,0.0,0,10.0,4
+E05000038,River,0.0,0,10.0,2
+E05000039,Thames,0.0,0,10.0,4
+E05000040,Valence,0.0,0,10.0,4
+E05000041,Village,0.0,0,10.0,3
+E05000042,Whalebone,0.0,0,10.0,2
+E05000043,Brunswick Park,0.0,0,0.0,2
+E05000044,Burnt Oak,0.0,0,10.0,2
+E05000045,Childs Hill,0.0,0,0.0,2
+E05000046,Colindale,0.0,0,10.0,0
+E05000047,Coppetts,0.0,0,0.0,2
+E05000048,East Barnet,0.0,0,0.0,1
+E05000049,East Finchley,0.0,0,0.0,1
+E05000050,Edgware,0.0,0,0.0,2
+E05000051,Finchley Church End,0.0,0,0.0,1
+E05000052,Garden Suburb,0.0,0,0.0,2
+E05000053,Golders Green,0.0,0,0.0,2
+E05000054,Hale,0.0,0,0.0,2
+E05000055,Hendon,0.0,0,0.0,1
+E05000056,High Barnet,0.0,0,0.0,1
+E05000057,Mill Hill,0.0,0,0.0,0
+E05000058,Oakleigh,0.0,0,0.0,2
+E05000059,Totteridge,0.0,0,0.0,1
+E05000060,Underhill,0.0,0,0.0,2
+E05000061,West Finchley,0.0,0,0.0,2
+E05000062,West Hendon,0.0,0,0.0,1
+E05000063,Woodhouse,0.0,0,0.0,2
+E05000064,Barnehurst,0.0,0,10.0,2
+E05000065,Belvedere,0.0,0,10.0,4
+E05000066,Blackfen and Lamorbey,0.0,0,0.0,1
+E05000067,Blendon and Penhill,0.0,0,0.0,1
+E05000068,Brampton,0.0,0,0.0,2
+E05000069,Christchurch,0.0,0,0.0,1
+E05000070,Colyers,0.0,0,10.0,4
+E05000071,Crayford,0.0,0,10.0,4
+E05000072,Cray Meadows,0.0,0,10.0,4
+E05000073,Danson Park,0.0,0,10.0,2
+E05000074,East Wickham,0.0,0,10.0,2
+E05000075,Erith,0.0,0,10.0,0
+E05000076,Falconwood and Welling,0.0,0,10.0,2
+E05000077,Lesnes Abbey,0.0,0,10.0,2
+E05000078,Longlands,0.0,0,0.0,1
+E05000079,North End,0.0,0,10.0,4
+E05000080,Northumberland Heath,0.0,0,10.0,4
+E05000081,St Mary's,0.0,0,0.0,1
+E05000082,St Michael's,0.0,0,10.0,2
+E05000083,Sidcup,0.0,0,0.0,1
+E05000084,Thamesmead East,0.0,0,10.0,4
+E05000085,Alperton,0.0,0,0.0,1
+E05000086,Barnhill,0.0,0,10.0,2
+E05000087,Brondesbury Park,0.0,0,0.0,2
+E05000088,Dollis Hill,0.0,0,10.0,2
+E05000089,Dudden Hill,0.0,0,10.0,2
+E05000090,Fryent,0.0,0,0.0,2
+E05000091,Harlesden,0.0,0,10.0,2
+E05000092,Kensal Green,0.0,0,10.0,2
+E05000093,Kenton,0.0,0,0.0,2
+E05000094,Kilburn,0.0,0,10.0,4
+E05000095,Mapesbury,0.0,0,10.0,2
+E05000096,Northwick Park,0.0,0,10.0,2
+E05000097,Preston,0.0,0,0.0,2
+E05000098,Queens Park,0.0,0,0.0,2
+E05000099,Queensbury,0.0,0,10.0,2
+E05000100,Stonebridge,0.0,0,10.0,4
+E05000101,Sudbury,0.0,0,0.0,2
+E05000102,Tokyngton,0.0,0,10.0,1
+E05000103,Welsh Harp,0.0,0,10.0,2
+E05000104,Wembley Central,0.0,0,0.0,1
+E05000105,Willesden Green,0.0,0,10.0,0
+E05000106,Bickley,0.0,0,0.0,1
+E05000107,Biggin Hill,0.0,0,0.0,1
+E05000108,Bromley Common and Keston,0.0,0,0.0,1
+E05000109,Bromley Town,0.0,0,0.0,1
+E05000110,Chelsfield and Pratts Bottom,0.0,0,0.0,1
+E05000111,Chislehurst,0.0,0,0.0,1
+E05000112,Clock House,0.0,0,0.0,2
+E05000113,Copers Cope,0.0,0,0.0,2
+E05000114,Cray Valley East,0.0,0,0.0,4
+E05000115,Cray Valley West,0.0,0,0.0,4
+E05000116,Crystal Palace,0.0,0,10.0,3
+E05000117,Darwin,0.0,0,0.0,1
+E05000118,Farnborough and Crofton,0.0,0,0.0,1
+E05000119,Hayes and Coney Hall,0.0,0,0.0,0
+E05000120,Kelsey and Eden Park,0.0,0,0.0,2
+E05000121,Mottingham and Chislehurst North,10.0,0,0.0,4
+E05000122,Orpington,0.0,0,10.0,4
+E05000123,Penge and Cator,0.0,0,10.0,2
+E05000124,Petts Wood and Knoll,0.0,0,0.0,1
+E05000125,Plaistow and Sundridge,0.0,0,0.0,1
+E05000126,Shortlands,0.0,0,0.0,2
+E05000127,West Wickham,0.0,0,0.0,2
+E05000128,Belsize,0.0,0,0.0,2
+E05000129,Bloomsbury,0.0,0,10.0,1
+E05000130,Camden Town with Primrose Hill,0.0,0,0.0,4
+E05000131,Cantelowes,0.0,0,0.0,4
+E05000132,Fortune Green,0.0,0,0.0,2
+E05000133,Frognal and Fitzjohns,0.0,0,0.0,1
+E05000134,Gospel Oak,0.0,0,10.0,4
+E05000135,Hampstead Town,0.0,0,0.0,1
+E05000136,Haverstock,0.0,0,10.0,4
+E05000137,Highgate,0.0,0,0.0,0
+E05000138,Holborn and Covent Garden,0.0,0,0.0,4
+E05000139,Kentish Town,0.0,0,0.0,4
+E05000140,Kilburn,0.0,0,10.0,4
+E05000141,King's Cross,0.0,0,0.0,4
+E05000142,Regent's Park,0.0,0,10.0,4
+E05000143,St Pancras and Somers Town,0.0,0,10.0,4
+E05000144,Swiss Cottage,0.0,0,0.0,2
+E05000145,West Hampstead,0.0,0,0.0,2
+E05000146,Addiscombe,0.0,0,0.0,2
+E05000147,Ashburton,0.0,0,10.0,2
+E05000148,Bensham Manor,0.0,0,10.0,2
+E05000149,Broad Green,0.0,0,10.0,2
+E05000150,Coulsdon East,0.0,0,0.0,1
+E05000151,Coulsdon West,0.0,0,0.0,0
+E05000152,Croham,0.0,0,0.0,2
+E05000153,Fairfield,0.0,0,0.0,2
+E05000154,Fieldway,0.0,0,10.0,4
+E05000155,Heathfield,0.0,0,0.0,2
+E05000156,Kenley,0.0,0,0.0,2
+E05000157,New Addington,0.0,0,10.0,2
+E05000158,Norbury,0.0,0,0.0,2
+E05000159,Purley,0.0,0,0.0,2
+E05000160,Sanderstead,0.0,0,0.0,2
+E05000161,Selhurst,0.0,0,10.0,2
+E05000162,Selsdon and Ballards,0.0,0,0.0,2
+E05000163,Shirley,0.0,0,10.0,2
+E05000164,South Norwood,0.0,0,10.0,2
+E05000165,Thornton Heath,0.0,0,10.0,2
+E05000166,Upper Norwood,0.0,0,10.0,2
+E05000167,Waddon,0.0,0,0.0,2
+E05000168,West Thornton,0.0,0,10.0,2
+E05000169,Woodside,10.0,0,0.0,0
+E05000170,Acton Central,0.0,0,0.0,2
+E05000171,Cleveland,0.0,0,0.0,2
+E05000172,Dormers Wells,0.0,0,10.0,4
+E05000173,Ealing Broadway,0.0,0,0.0,1
+E05000174,Ealing Common,0.0,0,0.0,2
+E05000175,East Acton,0.0,0,10.0,4
+E05000176,Elthorne,0.0,0,0.0,4
+E05000177,Greenford Broadway,0.0,0,10.0,4
+E05000178,Greenford Green,0.0,0,0.0,2
+E05000179,Hanger Hill,0.0,0,0.0,2
+E05000180,Hobbayne,0.0,0,0.0,4
+E05000181,Lady Margaret,0.0,0,10.0,2
+E05000182,Northfield,0.0,0,0.0,1
+E05000183,North Greenford,0.0,0,0.0,1
+E05000184,Northolt Mandeville,0.0,0,10.0,4
+E05000185,Northolt West End,0.0,0,10.0,4
+E05000186,Norwood Green,0.0,0,0.0,4
+E05000187,Perivale,0.0,0,10.0,0
+E05000188,South Acton,0.0,0,10.0,4
+E05000189,Southall Broadway,0.0,0,10.0,2
+E05000190,Southall Green,0.0,0,0.0,2
+E05000191,Southfield,0.0,0,0.0,2
+E05000192,Walpole,0.0,0,0.0,1
+E05000193,Bowes,0.0,0,0.0,4
+E05000194,Bush Hill Park,0.0,0,0.0,1
+E05000195,Chase,0.0,0,10.0,4
+E05000196,Cockfosters,0.0,0,0.0,1
+E05000197,Edmonton Green,0.0,0,10.0,4
+E05000198,Enfield Highway,10.0,0,0.0,4
+E05000199,Enfield Lock,10.0,0,0.0,4
+E05000200,Grange,0.0,0,0.0,1
+E05000201,Haselbury,0.0,0,10.0,4
+E05000202,Highlands,0.0,0,0.0,2
+E05000203,Jubilee,0.0,0,10.0,0
+E05000204,Lower Edmonton,10.0,0,0.0,4
+E05000205,Palmers Green,0.0,0,0.0,2
+E05000206,Ponders End,0.0,0,10.0,4
+E05000207,Southbury,0.0,0,10.0,0
+E05000208,Southgate,0.0,0,0.0,2
+E05000209,Southgate Green,0.0,0,0.0,1
+E05000210,Town,0.0,0,0.0,1
+E05000211,Turkey Street,0.0,0,10.0,4
+E05000212,Upper Edmonton,0.0,0,10.0,4
+E05000213,Winchmore Hill,0.0,0,0.0,1
+E05000214,Abbey Wood,10.0,0,0.0,0
+E05000215,Blackheath Westcombe,0.0,0,0.0,1
+E05000216,Charlton,0.0,0,10.0,4
+E05000217,Coldharbour and New Eltham,0.0,0,10.0,4
+E05000218,Eltham North,0.0,0,0.0,1
+E05000219,Eltham South,0.0,0,10.0,0
+E05000220,Eltham West,0.0,0,10.0,0
+E05000221,Glyndon,0.0,0,10.0,4
+E05000222,Greenwich West,0.0,0,10.0,4
+E05000223,Kidbrooke with Hornfair,0.0,0,10.0,3
+E05000224,Middle Park and Sutcliffe,0.0,0,10.0,4
+E05000225,Peninsula,0.0,0,0.0,1
+E05000226,Plumstead,0.0,0,10.0,4
+E05000227,Shooters Hill,0.0,0,10.0,4
+E05000228,Thamesmead Moorings,0.0,0,10.0,4
+E05000229,Woolwich Common,0.0,0,10.0,4
+E05000230,Woolwich Riverside,0.0,0,10.0,4
+E05000250,Addison,0.0,0,0.0,1
+E05000251,Askew,0.0,0,0.0,2
+E05000252,Avonmore and Brook Green,0.0,0,10.0,2
+E05000253,College Park and Old Oak,0.0,0,10.0,0
+E05000254,Fulham Broadway,0.0,0,0.0,2
+E05000255,Fulham Reach,0.0,0,10.0,4
+E05000256,Hammersmith Broadway,0.0,0,10.0,2
+E05000257,Munster,0.0,0,0.0,1
+E05000258,North End,0.0,0,10.0,4
+E05000259,Palace Riverside,0.0,0,0.0,1
+E05000260,Parsons Green and Walham,0.0,0,10.0,2
+E05000261,Ravenscourt Park,0.0,0,0.0,2
+E05000262,Sands End,0.0,0,10.0,2
+E05000263,Shepherd's Bush Green,0.0,0,10.0,2
+E05000264,Town,0.0,0,10.0,2
+E05000265,Wormholt and White City,0.0,0,10.0,2
+E05000266,Alexandra,0.0,0,0.0,1
+E05000267,Bounds Green,0.0,0,10.0,4
+E05000268,Bruce Grove,0.0,0,10.0,4
+E05000269,Crouch End,0.0,0,0.0,1
+E05000270,Fortis Green,0.0,0,0.0,1
+E05000271,Harringay,0.0,0,0.0,0
+E05000272,Highgate,0.0,0,0.0,1
+E05000273,Hornsey,0.0,0,0.0,4
+E05000274,Muswell Hill,0.0,0,0.0,1
+E05000275,Noel Park,0.0,0,10.0,4
+E05000276,Northumberland Park,0.0,0,10.0,4
+E05000277,St Ann's,0.0,0,10.0,4
+E05000278,Seven Sisters,0.0,0,10.0,4
+E05000279,Stroud Green,0.0,0,0.0,4
+E05000280,Tottenham Green,0.0,0,10.0,4
+E05000281,Tottenham Hale,0.0,0,10.0,4
+E05000282,West Green,0.0,0,10.0,3
+E05000283,White Hart Lane,0.0,0,10.0,4
+E05000284,Woodside,0.0,0,10.0,0
+E05000285,Belmont,0.0,0,0.0,1
+E05000286,Canons,0.0,0,10.0,1
+E05000287,Edgware,0.0,0,0.0,1
+E05000288,Greenhill,0.0,0,0.0,1
+E05000289,Harrow on the Hill,0.0,0,0.0,0
+E05000290,Harrow Weald,0.0,0,0.0,0
+E05000291,Hatch End,0.0,0,0.0,1
+E05000292,Headstone North,0.0,0,0.0,1
+E05000293,Headstone South,0.0,0,0.0,1
+E05000294,Kenton East,0.0,0,10.0,2
+E05000295,Kenton West,0.0,0,0.0,1
+E05000296,Marlborough,0.0,0,10.0,1
+E05000297,Pinner,0.0,0,0.0,1
+E05000298,Pinner South,0.0,0,0.0,1
+E05000299,Queensbury,0.0,0,0.0,1
+E05000300,Rayners Lane,0.0,0,0.0,1
+E05000301,Roxbourne,0.0,0,0.0,4
+E05000302,Roxeth,0.0,0,0.0,1
+E05000303,Stanmore Park,0.0,0,0.0,4
+E05000304,Wealdstone,0.0,0,10.0,4
+E05000305,West Harrow,0.0,0,0.0,1
+E05000306,Brooklands,0.0,0,0.0,4
+E05000307,Cranham,0.0,0,0.0,1
+E05000308,Elm Park,0.0,0,10.0,4
+E05000309,Emerson Park,0.0,0,0.0,1
+E05000310,Gooshays,0.0,0,10.0,4
+E05000311,Hacton,0.0,0,0.0,1
+E05000312,Harold Wood,0.0,0,0.0,1
+E05000313,Havering Park,0.0,0,0.0,4
+E05000314,Heaton,0.0,0,10.0,4
+E05000315,Hylands,0.0,0,0.0,1
+E05000316,Mawneys,0.0,0,0.0,4
+E05000317,Pettits,0.0,0,0.0,1
+E05000318,Rainham and Wennington,0.0,0,10.0,4
+E05000319,Romford Town,0.0,0,0.0,1
+E05000320,St Andrew's,0.0,0,0.0,1
+E05000321,South Hornchurch,0.0,0,10.0,4
+E05000322,Squirrel's Heath,0.0,0,0.0,1
+E05000323,Upminster,0.0,0,0.0,0
+E05000324,Barnhill,0.0,0,10.0,2
+E05000325,Botwell,0.0,0,0.0,3
+E05000326,Brunel,0.0,0,0.0,0
+E05000327,Cavendish,0.0,0,0.0,3
+E05000328,Charville,0.0,0,0.0,2
+E05000329,Eastcote and East Ruislip,0.0,0,0.0,0
+E05000330,Harefield,0.0,0,0.0,1
+E05000331,Heathrow Villages,0.0,0,10.0,2
+E05000332,Hillingdon East,0.0,0,0.0,2
+E05000333,Ickenham,0.0,0,0.0,2
+E05000334,Manor,0.0,0,0.0,2
+E05000335,Northwood,0.0,0,0.0,2
+E05000336,Northwood Hills,0.0,0,0.0,2
+E05000337,Pinkwell,0.0,0,0.0,2
+E05000338,South Ruislip,0.0,0,0.0,2
+E05000339,Townfield,0.0,0,0.0,3
+E05000340,Uxbridge North,0.0,0,0.0,0
+E05000341,Uxbridge South,0.0,0,10.0,4
+E05000342,West Drayton,0.0,0,10.0,2
+E05000343,West Ruislip,0.0,0,0.0,1
+E05000344,Yeading,0.0,0,0.0,2
+E05000345,Yiewsley,0.0,0,10.0,4
+E05000346,Bedfont,0.0,0,10.0,4
+E05000347,Brentford,0.0,0,0.0,4
+E05000348,Chiswick Homefields,0.0,0,0.0,1
+E05000349,Chiswick Riverside,0.0,0,0.0,1
+E05000350,Cranford,0.0,0,10.0,2
+E05000351,Feltham North,0.0,0,10.0,0
+E05000352,Feltham West,0.0,0,10.0,4
+E05000353,Hanworth,0.0,0,10.0,2
+E05000354,Hanworth Park,0.0,0,10.0,2
+E05000355,Heston Central,0.0,0,10.0,2
+E05000356,Heston East,0.0,0,0.0,2
+E05000357,Heston West,0.0,0,0.0,2
+E05000358,Hounslow Central,0.0,0,10.0,2
+E05000359,Hounslow Heath,0.0,0,0.0,2
+E05000360,Hounslow South,0.0,0,0.0,2
+E05000361,Hounslow West,0.0,0,0.0,2
+E05000362,Isleworth,0.0,0,0.0,4
+E05000363,Osterley and Spring Grove,0.0,0,0.0,0
+E05000364,Syon,0.0,0,0.0,4
+E05000365,Turnham Green,0.0,0,0.0,2
+E05000366,Barnsbury,0.0,0,10.0,4
+E05000367,Bunhill,0.0,0,10.0,4
+E05000368,Caledonian,0.0,0,10.0,4
+E05000369,Canonbury,0.0,0,10.0,4
+E05000370,Clerkenwell,0.0,0,10.0,4
+E05000371,Finsbury Park,0.0,0,10.0,4
+E05000372,Highbury East,0.0,0,0.0,4
+E05000373,Highbury West,0.0,0,0.0,4
+E05000374,Hillrise,0.0,0,0.0,4
+E05000375,Holloway,0.0,0,10.0,4
+E05000376,Junction,0.0,0,0.0,4
+E05000377,Mildmay,0.0,0,10.0,4
+E05000378,St George's,0.0,0,0.0,4
+E05000379,St Mary's,0.0,0,0.0,4
+E05000380,St Peter's,0.0,0,0.0,4
+E05000381,Tollington,0.0,0,0.0,4
+E05000400,Alexandra,0.0,0,0.0,1
+E05000401,Berrylands,0.0,0,0.0,2
+E05000402,Beverley,0.0,0,0.0,2
+E05000403,Canbury,0.0,0,0.0,2
+E05000404,Chessington North and Hook,0.0,0,0.0,2
+E05000405,Chessington South,0.0,0,0.0,1
+E05000406,Coombe Hill,0.0,0,0.0,1
+E05000407,Coombe Vale,0.0,0,0.0,2
+E05000408,Grove,0.0,0,0.0,1
+E05000409,Norbiton,0.0,0,0.0,0
+E05000410,Old Malden,0.0,0,0.0,1
+E05000411,St James,0.0,0,0.0,2
+E05000412,St Mark's,0.0,0,0.0,2
+E05000413,Surbiton Hill,0.0,0,0.0,2
+E05000414,Tolworth and Hook Rise,0.0,0,0.0,2
+E05000415,Tudor,0.0,0,0.0,1
+E05000416,Bishop's,0.0,0,10.0,4
+E05000417,Brixton Hill,0.0,0,0.0,4
+E05000418,Clapham Common,0.0,0,0.0,4
+E05000419,Clapham Town,0.0,0,0.0,4
+E05000420,Coldharbour,0.0,0,10.0,0
+E05000421,Ferndale,0.0,0,10.0,4
+E05000422,Gipsy Hill,0.0,0,10.0,4
+E05000423,Herne Hill,0.0,0,0.0,3
+E05000424,Knight's Hill,0.0,0,0.0,4
+E05000425,Larkhall,0.0,0,10.0,0
+E05000426,Oval,0.0,0,10.0,4
+E05000427,Prince's,0.0,0,10.0,0
+E05000428,St Leonard's,0.0,0,0.0,1
+E05000429,Stockwell,0.0,0,10.0,4
+E05000430,Streatham Hill,0.0,0,0.0,4
+E05000431,Streatham South,0.0,0,0.0,2
+E05000432,Streatham Wells,0.0,0,0.0,4
+E05000433,Thornton,0.0,0,0.0,4
+E05000434,Thurlow Park,0.0,0,0.0,4
+E05000435,Tulse Hill,0.0,0,10.0,4
+E05000436,Vassall,0.0,0,10.0,4
+E05000437,Bellingham,0.0,0,10.0,4
+E05000438,Blackheath,0.0,0,0.0,1
+E05000439,Brockley,0.0,0,10.0,4
+E05000440,Catford South,0.0,0,0.0,2
+E05000441,Crofton Park,0.0,0,0.0,1
+E05000442,Downham,0.0,0,10.0,4
+E05000443,Evelyn,0.0,0,10.0,4
+E05000444,Forest Hill,0.0,0,0.0,4
+E05000445,Grove Park,0.0,0,10.0,4
+E05000446,Ladywell,0.0,0,0.0,2
+E05000447,Lee Green,0.0,0,0.0,2
+E05000448,Lewisham Central,0.0,0,10.0,2
+E05000449,New Cross,0.0,0,10.0,2
+E05000450,Perry Vale,0.0,0,0.0,4
+E05000451,Rushey Green,0.0,0,0.0,0
+E05000452,Sydenham,0.0,0,10.0,4
+E05000453,Telegraph Hill,0.0,0,10.0,2
+E05000454,Whitefoot,0.0,0,10.0,4
+E05000455,Abbey,0.0,0,0.0,1
+E05000456,Cannon Hill,0.0,0,0.0,1
+E05000457,Colliers Wood,0.0,0,0.0,1
+E05000458,Cricket Green,0.0,0,10.0,4
+E05000459,Dundonald,0.0,0,0.0,1
+E05000460,Figge's Marsh,0.0,0,10.0,4
+E05000461,Graveney,0.0,0,10.0,2
+E05000462,Hillside,0.0,0,0.0,1
+E05000463,Lavender Fields,0.0,0,10.0,4
+E05000464,Longthornton,0.0,0,10.0,3
+E05000465,Lower Morden,0.0,0,0.0,1
+E05000466,Merton Park,0.0,0,0.0,1
+E05000467,Pollards Hill,0.0,0,10.0,2
+E05000468,Ravensbury,0.0,0,10.0,4
+E05000469,Raynes Park,0.0,0,0.0,1
+E05000470,St Helier,0.0,0,10.0,4
+E05000471,Trinity,0.0,0,0.0,1
+E05000472,Village,0.0,0,0.0,1
+E05000473,West Barnes,0.0,0,0.0,1
+E05000474,Wimbledon Park,0.0,0,0.0,0
+E05000475,Beckton,0.0,0,10.0,4
+E05000476,Boleyn,0.0,0,10.0,2
+E05000477,Canning Town North,0.0,0,10.0,2
+E05000478,Canning Town South,0.0,0,10.0,4
+E05000479,Custom House,0.0,0,10.0,3
+E05000480,East Ham Central,0.0,0,10.0,2
+E05000481,East Ham North,0.0,0,0.0,2
+E05000482,East Ham South,0.0,0,0.0,3
+E05000483,Forest Gate North,0.0,0,10.0,4
+E05000484,Forest Gate South,0.0,0,0.0,2
+E05000485,Green Street East,0.0,0,0.0,2
+E05000486,Green Street West,0.0,0,0.0,2
+E05000487,Little Ilford,0.0,0,10.0,4
+E05000488,Manor Park,0.0,0,10.0,4
+E05000489,Plaistow North,0.0,0,10.0,2
+E05000490,Plaistow South,0.0,0,10.0,0
+E05000491,Royal Docks,0.0,0,10.0,4
+E05000492,Stratford and New Town,0.0,0,0.0,3
+E05000493,Wall End,0.0,0,0.0,2
+E05000494,West Ham,0.0,0,10.0,4
+E05000495,Aldborough,0.0,0,0.0,3
+E05000496,Barkingside,0.0,0,0.0,2
+E05000497,Bridge,0.0,0,0.0,0
+E05000498,Chadwell,0.0,0,10.0,2
+E05000499,Church End,0.0,0,0.0,2
+E05000500,Clayhall,0.0,0,0.0,2
+E05000501,Clementswood,0.0,0,0.0,0
+E05000502,Cranbrook,0.0,0,0.0,2
+E05000503,Fairlop,0.0,0,10.0,2
+E05000504,Fullwell,0.0,0,10.0,2
+E05000505,Goodmayes,0.0,0,0.0,2
+E05000506,Hainault,0.0,0,10.0,2
+E05000507,Loxford,0.0,0,10.0,4
+E05000508,Mayfield,0.0,0,0.0,2
+E05000509,Monkhams,0.0,0,0.0,2
+E05000510,Newbury,0.0,0,10.0,2
+E05000511,Roding,0.0,0,0.0,2
+E05000512,Seven Kings,0.0,0,0.0,2
+E05000513,Snaresbrook,0.0,0,0.0,2
+E05000514,Valentines,0.0,0,0.0,2
+E05000515,Wanstead,0.0,0,0.0,2
+E05000516,Barnes,0.0,0,0.0,0
+E05000517,East Sheen,0.0,0,0.0,1
+E05000518,Fulwell and Hampton Hill,0.0,0,0.0,1
+E05000519,"Ham, Petersham and Richmond Riverside",0.0,0,0.0,1
+E05000520,Hampton,0.0,0,0.0,1
+E05000521,Hampton North,0.0,0,0.0,3
+E05000522,Hampton Wick,0.0,0,0.0,1
+E05000523,Heathfield,0.0,0,0.0,1
+E05000524,Kew,0.0,0,0.0,1
+E05000525,Mortlake and Barnes Common,0.0,0,0.0,1
+E05000526,North Richmond,0.0,0,0.0,1
+E05000527,St Margarets and North Twickenham,0.0,0,0.0,1
+E05000528,South Richmond,0.0,0,0.0,1
+E05000529,South Twickenham,0.0,0,0.0,0
+E05000530,Teddington,0.0,0,0.0,1
+E05000531,Twickenham Riverside,0.0,0,0.0,1
+E05000532,West Twickenham,0.0,0,0.0,1
+E05000533,Whitton,0.0,0,0.0,1
+E05000534,Brunswick Park,0.0,0,10.0,4
+E05000535,Camberwell Green,0.0,0,10.0,4
+E05000536,Cathedrals,0.0,0,10.0,4
+E05000537,Chaucer,0.0,0,10.0,4
+E05000538,College,0.0,0,10.0,0
+E05000539,East Dulwich,0.0,0,0.0,1
+E05000540,East Walworth,0.0,0,10.0,4
+E05000541,Faraday,0.0,0,10.0,3
+E05000542,Grange,0.0,0,10.0,4
+E05000543,Livesey,0.0,0,10.0,4
+E05000544,Newington,0.0,0,10.0,4
+E05000545,Nunhead,0.0,0,10.0,4
+E05000546,Peckham,0.0,0,10.0,4
+E05000547,Peckham Rye,0.0,0,0.0,4
+E05000548,Riverside,0.0,0,10.0,4
+E05000549,Rotherhithe,0.0,0,10.0,0
+E05000550,South Bermondsey,0.0,0,10.0,2
+E05000551,South Camberwell,0.0,0,10.0,1
+E05000552,Surrey Docks,0.0,0,0.0,4
+E05000553,The Lane,0.0,0,10.0,4
+E05000554,Village,0.0,0,0.0,3
+E05000555,Beddington North,0.0,0,0.0,1
+E05000556,Beddington South,0.0,0,0.0,4
+E05000557,Belmont,0.0,0,0.0,2
+E05000558,Carshalton Central,0.0,0,0.0,1
+E05000559,Carshalton South and Clockhouse,0.0,0,0.0,2
+E05000560,Cheam,0.0,0,0.0,1
+E05000561,Nonsuch,0.0,0,0.0,2
+E05000562,St Helier,0.0,0,10.0,0
+E05000563,Stonecot,0.0,0,0.0,1
+E05000564,Sutton Central,0.0,0,0.0,1
+E05000565,Sutton North,0.0,0,0.0,2
+E05000566,Sutton South,0.0,0,0.0,2
+E05000567,Sutton West,0.0,0,0.0,1
+E05000568,The Wrythe,0.0,0,0.0,1
+E05000569,Wallington North,0.0,0,0.0,1
+E05000570,Wallington South,0.0,0,0.0,2
+E05000571,Wandle Valley,0.0,0,0.0,4
+E05000572,Worcester Park,0.0,0,0.0,2
+E05000590,Cann Hall,0.0,0,0.0,2
+E05000591,Cathall,0.0,0,10.0,4
+E05000592,Chapel End,0.0,0,0.0,0
+E05000593,Chingford Green,0.0,0,0.0,4
+E05000594,Endlebury,0.0,0,0.0,4
+E05000595,Forest,0.0,0,0.0,2
+E05000596,Grove Green,0.0,0,10.0,2
+E05000597,Hale End and Highams Park,0.0,0,0.0,2
+E05000598,Hatch Lane,0.0,0,0.0,3
+E05000599,High Street,0.0,0,0.0,2
+E05000600,Higham Hill,0.0,0,10.0,3
+E05000601,Hoe Street,0.0,0,0.0,2
+E05000602,Larkswood,0.0,0,0.0,2
+E05000603,Lea Bridge,0.0,0,10.0,2
+E05000604,Leyton,0.0,0,10.0,0
+E05000605,Leytonstone,0.0,0,0.0,2
+E05000606,Markhouse,0.0,0,0.0,4
+E05000607,Valley,0.0,0,10.0,2
+E05000608,William Morris,0.0,0,10.0,2
+E05000609,Wood Street,0.0,0,10.0,2
+E05000610,Balham,0.0,0,0.0,1
+E05000611,Bedford,0.0,0,0.0,0
+E05000612,Earlsfield,0.0,0,0.0,4
+E05000613,East Putney,0.0,0,0.0,1
+E05000614,Fairfield,0.0,0,0.0,1
+E05000615,Furzedown,0.0,0,0.0,0
+E05000616,Graveney,0.0,0,0.0,4
+E05000617,Latchmere,0.0,0,10.0,4
+E05000618,Nightingale,0.0,0,0.0,1
+E05000619,Northcote,0.0,0,0.0,1
+E05000620,Queenstown,0.0,0,10.0,0
+E05000621,Roehampton and Putney Heath,0.0,0,10.0,4
+E05000622,St Mary's Park,0.0,0,0.0,4
+E05000623,Shaftesbury,0.0,0,0.0,2
+E05000624,Southfields,0.0,0,0.0,3
+E05000625,Thamesfield,0.0,0,0.0,1
+E05000626,Tooting,0.0,0,0.0,4
+E05000627,Wandsworth Common,0.0,0,0.0,1
+E05000628,West Hill,0.0,0,0.0,4
+E05000629,West Putney,0.0,0,0.0,4
+E05000630,Abbey Road,0.0,0,0.0,2
+E05000631,Bayswater,0.0,0,0.0,2
+E05000632,Bryanston and Dorset Square,0.0,0,10.0,1
+E05000633,Churchill,0.0,0,10.0,4
+E05000634,Church Street,0.0,0,10.0,4
+E05000635,Harrow Road,0.0,0,10.0,4
+E05000636,Hyde Park,0.0,0,0.0,1
+E05000638,Lancaster Gate,0.0,0,0.0,2
+E05000639,Little Venice,0.0,0,0.0,1
+E05000640,Maida Vale,0.0,0,0.0,0
+E05000641,Marylebone High Street,0.0,0,0.0,2
+E05000642,Queen's Park,0.0,0,10.0,4
+E05000643,Regent's Park,0.0,0,0.0,0
+E05000644,St James's,0.0,0,10.0,1
+E05000645,Tachbrook,-40.257155,0,50.257155,4
+E05000646,Vincent Square,0.0,0,0.0,4
+E05000647,Warwick,0.0,0,10.0,2
+E05000648,Westbourne,0.0,0,10.0,4
+E05000649,West End,0.0,0,0.0,1

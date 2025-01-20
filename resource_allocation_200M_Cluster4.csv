@@ -1,0 +1,184 @@
+Ward_ID,Ward_Name,Cluster,Gym,Poverty_Family,GreenSpace
+E05000026,Abbey,4,0,0,0.0
+E05000028,Becontree,4,0,0,20.0
+E05000029,Chadwell Heath,4,0,0,20.0
+E05000030,Eastbrook,4,0,0,20.0
+E05000031,Eastbury,4,0,0,20.0
+E05000032,Gascoigne,4,0,0,0.0
+E05000033,Goresbrook,4,0,0,20.0
+E05000034,Heath,4,0,0,20.0
+E05000037,Parsloes,4,0,0,20.0
+E05000039,Thames,4,0,0,0.0
+E05000040,Valence,4,0,0,20.0
+E05000065,Belvedere,4,0,0,20.0
+E05000070,Colyers,4,0,0,20.0
+E05000071,Crayford,4,0,0,20.0
+E05000072,Cray Meadows,4,0,0,20.0
+E05000079,North End,4,0,0,20.0
+E05000080,Northumberland Heath,4,0,0,20.0
+E05000084,Thamesmead East,4,0,0,0.0
+E05000094,Kilburn,4,0,0,0.0
+E05000100,Stonebridge,4,0,0,0.0
+E05000114,Cray Valley East,4,0,0,0.0
+E05000115,Cray Valley West,4,0,0,0.0
+E05000121,Mottingham and Chislehurst North,4,0,0,20.0
+E05000122,Orpington,4,0,0,20.0
+E05000130,Camden Town with Primrose Hill,4,0,0,0.0
+E05000131,Cantelowes,4,0,0,0.0
+E05000134,Gospel Oak,4,0,0,20.0
+E05000136,Haverstock,4,0,0,20.0
+E05000138,Holborn and Covent Garden,4,0,0,0.0
+E05000139,Kentish Town,4,0,0,0.0
+E05000140,Kilburn,4,0,0,20.0
+E05000141,King's Cross,4,0,0,0.0
+E05000142,Regent's Park,4,0,0,20.0
+E05000143,St Pancras and Somers Town,4,0,0,20.0
+E05000154,Fieldway,4,0,0,0.0
+E05000172,Dormers Wells,4,0,0,20.0
+E05000175,East Acton,4,0,0,0.0
+E05000176,Elthorne,4,0,0,0.0
+E05000177,Greenford Broadway,4,0,0,0.0
+E05000180,Hobbayne,4,0,0,0.0
+E05000184,Northolt Mandeville,4,0,0,0.0
+E05000185,Northolt West End,4,0,0,0.0
+E05000186,Norwood Green,4,0,0,0.0
+E05000188,South Acton,4,0,0,20.0
+E05000193,Bowes,4,0,0,0.0
+E05000195,Chase,4,0,0,20.0
+E05000197,Edmonton Green,4,0,0,0.0
+E05000198,Enfield Highway,4,0,0,0.0
+E05000199,Enfield Lock,4,0,0,0.0
+E05000201,Haselbury,4,0,0,0.0
+E05000204,Lower Edmonton,4,0,0,0.0
+E05000206,Ponders End,4,0,0,0.0
+E05000211,Turkey Street,4,0,0,0.0
+E05000212,Upper Edmonton,4,0,0,0.0
+E05000216,Charlton,4,0,0,20.0
+E05000217,Coldharbour and New Eltham,4,0,0,20.0
+E05000221,Glyndon,4,0,0,0.0
+E05000222,Greenwich West,4,0,0,20.0
+E05000224,Middle Park and Sutcliffe,4,0,0,20.0
+E05000226,Plumstead,4,0,0,0.0
+E05000227,Shooters Hill,4,0,0,20.0
+E05000228,Thamesmead Moorings,4,0,0,0.0
+E05000229,Woolwich Common,4,0,0,0.0
+E05000230,Woolwich Riverside,4,0,0,0.0
+E05000255,Fulham Reach,4,0,0,20.0
+E05000258,North End,4,0,0,20.0
+E05000267,Bounds Green,4,0,0,20.0
+E05000268,Bruce Grove,4,0,0,20.0
+E05000273,Hornsey,4,0,0,0.0
+E05000275,Noel Park,4,0,0,20.0
+E05000276,Northumberland Park,4,0,0,0.0
+E05000277,St Ann's,4,0,0,20.0
+E05000278,Seven Sisters,4,0,0,0.0
+E05000279,Stroud Green,4,0,0,0.0
+E05000280,Tottenham Green,4,0,0,20.0
+E05000281,Tottenham Hale,4,0,0,0.0
+E05000283,White Hart Lane,4,0,0,0.0
+E05000301,Roxbourne,4,0,0,0.0
+E05000303,Stanmore Park,4,0,0,0.0
+E05000304,Wealdstone,4,0,0,20.0
+E05000306,Brooklands,4,0,0,0.0
+E05000308,Elm Park,4,0,0,20.0
+E05000310,Gooshays,4,0,0,0.0
+E05000313,Havering Park,4,0,0,0.0
+E05000314,Heaton,4,0,0,20.0
+E05000316,Mawneys,4,0,0,0.0
+E05000318,Rainham and Wennington,4,0,0,20.0
+E05000321,South Hornchurch,4,0,0,20.0
+E05000341,Uxbridge South,4,0,0,20.0
+E05000345,Yiewsley,4,0,0,20.0
+E05000346,Bedfont,4,0,0,20.0
+E05000347,Brentford,4,0,0,0.0
+E05000352,Feltham West,4,0,0,0.0
+E05000362,Isleworth,4,0,0,0.0
+E05000364,Syon,4,0,0,0.0
+E05000366,Barnsbury,4,0,0,20.0
+E05000367,Bunhill,4,0,0,20.0
+E05000368,Caledonian,4,0,0,20.0
+E05000369,Canonbury,4,0,0,20.0
+E05000370,Clerkenwell,4,0,0,20.0
+E05000371,Finsbury Park,4,0,0,20.0
+E05000372,Highbury East,4,0,0,0.0
+E05000373,Highbury West,4,0,0,0.0
+E05000374,Hillrise,4,0,0,0.0
+E05000375,Holloway,4,0,0,20.0
+E05000376,Junction,4,0,0,0.0
+E05000377,Mildmay,4,0,0,20.0
+E05000378,St George's,4,0,0,0.0
+E05000379,St Mary's,4,0,0,0.0
+E05000380,St Peter's,4,0,0,0.0
+E05000381,Tollington,4,0,0,0.0
+E05000416,Bishop's,4,0,0,20.0
+E05000417,Brixton Hill,4,0,0,0.0
+E05000418,Clapham Common,4,0,0,0.0
+E05000419,Clapham Town,4,0,0,0.0
+E05000421,Ferndale,4,0,0,20.0
+E05000422,Gipsy Hill,4,0,0,20.0
+E05000424,Knight's Hill,4,0,0,0.0
+E05000426,Oval,4,0,0,20.0
+E05000429,Stockwell,4,0,0,20.0
+E05000430,Streatham Hill,4,0,0,0.0
+E05000432,Streatham Wells,4,0,0,0.0
+E05000433,Thornton,4,0,0,0.0
+E05000434,Thurlow Park,4,0,0,0.0
+E05000435,Tulse Hill,4,0,0,0.0
+E05000436,Vassall,4,0,0,20.0
+E05000437,Bellingham,4,0,0,0.0
+E05000439,Brockley,4,0,0,20.0
+E05000442,Downham,4,0,0,0.0
+E05000443,Evelyn,4,0,0,0.0
+E05000444,Forest Hill,4,0,0,0.0
+E05000445,Grove Park,4,0,0,20.0
+E05000450,Perry Vale,4,0,0,0.0
+E05000452,Sydenham,4,0,0,20.0
+E05000454,Whitefoot,4,0,0,0.0
+E05000458,Cricket Green,4,0,0,20.0
+E05000460,Figge's Marsh,4,0,0,20.0
+E05000463,Lavender Fields,4,0,0,20.0
+E05000468,Ravensbury,4,0,0,20.0
+E05000470,St Helier,4,0,0,20.0
+E05000475,Beckton,4,0,0,0.0
+E05000478,Canning Town South,4,0,0,0.0
+E05000483,Forest Gate North,4,0,0,0.0
+E05000487,Little Ilford,4,0,0,0.0
+E05000488,Manor Park,4,0,0,0.0
+E05000491,Royal Docks,4,0,0,20.0
+E05000494,West Ham,4,0,0,0.0
+E05000507,Loxford,4,0,0,0.0
+E05000534,Brunswick Park,4,0,0,20.0
+E05000535,Camberwell Green,4,0,0,9.0909091
+E05000536,Cathedrals,4,0,0,20.0
+E05000537,Chaucer,4,0,0,20.0
+E05000540,East Walworth,4,0,0,20.0
+E05000542,Grange,4,0,0,20.0
+E05000543,Livesey,4,0,0,0.0
+E05000544,Newington,4,0,0,20.0
+E05000545,Nunhead,4,0,0,20.0
+E05000546,Peckham,4,0,0,0.0
+E05000547,Peckham Rye,4,0,0,0.0
+E05000548,Riverside,4,0,0,20.0
+E05000552,Surrey Docks,4,0,0,0.0
+E05000553,The Lane,4,0,0,0.0
+E05000556,Beddington South,4,0,0,0.0
+E05000571,Wandle Valley,4,0,0,0.0
+E05000591,Cathall,4,0,0,20.0
+E05000593,Chingford Green,4,0,0,0.0
+E05000594,Endlebury,4,0,0,0.0
+E05000606,Markhouse,4,0,0,0.0
+E05000612,Earlsfield,4,0,0,0.0
+E05000616,Graveney,4,0,0,0.0
+E05000617,Latchmere,4,0,0,20.0
+E05000621,Roehampton and Putney Heath,4,0,0,20.0
+E05000622,St Mary's Park,4,0,0,0.0
+E05000626,Tooting,4,0,0,0.0
+E05000628,West Hill,4,0,0,0.0
+E05000629,West Putney,4,0,0,0.0
+E05000633,Churchill,4,0,0,20.0
+E05000634,Church Street,4,0,0,20.0
+E05000635,Harrow Road,4,0,0,20.0
+E05000642,Queen's Park,4,0,0,20.0
+E05000645,Tachbrook,4,0,0,20.0
+E05000646,Vincent Square,4,0,0,0.0
+E05000648,Westbourne,4,0,0,20.0
