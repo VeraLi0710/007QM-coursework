@@ -1,4 +1,4 @@
-# 007QM-coursework
+### 007QM-coursework
 # Optimizing Resource Allocation to Address Childhood Obesity in London  
 
 ## 📚 Overview  
