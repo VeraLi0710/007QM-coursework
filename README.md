@@ -1,19 +1,15 @@
-### 007QM-coursework
-# Optimizing Resource Allocation to Address Childhood Obesity in London  
+# Optimizing Resource Allocation to Combat Childhood Obesity in London  
 
-##  Overview  
-This project tackles the pressing issue of **childhood obesity in London** by combining **clustering techniques** and **linear programming** to optimize resource allocation. It's a blend of data science and real-world problem-solving, aiming to make a meaningful impact.  
+This project addresses the urgent public health crisis of **childhood obesity in London** by integrating advanced clustering techniques and linear programming (LP) to optimize resource allocation, provided actionable recommendations for policymakers. By identifying high-risk areas and systematically distributing resources, the model aims to maximize health outcomes and reduce disparities.  
 
-##  Highlights  
-- **Clustering Analysis**: Used K-means to identify high-priority areas for intervention.  
-- **Linear Programming**: Designed optimization models to allocate resources effectively.  
-- **Data-Driven Insights**: Provided actionable recommendations based on analysis.  
+- **Reusability** and **Data-Driven Insights**
 
-##  Project Structure  
-- **`07 code.ipynb`**: The main notebook containing the analysis and modeling.  
-- **`QM Written Investigation.pdf`**: The final report detailing the methodology and results.  
-- **`data/`**: Contains datasets used for the analysis.  
-- **`plots/`**: Visualizations generated during the project.  
+## Project Structure  
+
+- **07 code.ipynb**: The main notebook containing the analysis and modeling.  
+- **QM Written Investigation.pdf**: The final report detailing methodology and results.  
+- **data/**: Contains datasets used for the analysis.  
+- **plots/**: Visualizations generated during the project.  
 
 ## Tools & Libraries  
 - Python (pandas, numpy, scikit-learn, matplotlib)  
@@ -21,4 +17,4 @@ This project tackles the pressing issue of **childhood obesity in London** by co
 
 ---  
 
-Feel free to explore the code and report!  😊
+Feel free to explore the code and report! 😊
