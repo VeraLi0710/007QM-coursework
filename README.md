@@ -4,16 +4,12 @@ This project addresses the urgent public health crisis of **childhood obesity in
 
 - **Reusability** and **Data-Driven Insights**
 
-## Project Structure  
+## Content
 
 - **07 code.ipynb**: The main notebook containing the analysis and modeling.  
 - **QM Written Investigation.pdf**: The final report detailing methodology and results.  
 - **data/**: Contains datasets used for the analysis.  
 - **plots/**: Visualizations generated during the project.  
-
-## Tools & Libraries  
-- Python (pandas, numpy, scikit-learn, matplotlib)  
-- Linear Programming (scipy.optimize)  
 
 ---  
 
