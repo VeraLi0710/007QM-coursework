@@ -12,5 +12,3 @@ This project addresses the urgent public health crisis of **childhood obesity in
 - **plots/**: Visualizations generated during the project.  
 
 ---  
-
-Feel free to explore the code and report! 😊
